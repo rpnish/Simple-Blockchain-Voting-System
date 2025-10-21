@@ -1,6 +1,3 @@
-Absolutely! Here's a **ready-to-paste, polished README.md** for your blockchain voting system. It’s human-friendly, includes instructions, and looks professional on GitHub:
-
----
 
 ````markdown
 # Blockchain Voting System
