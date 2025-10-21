@@ -97,5 +97,4 @@ blockchain_voting/
 
 This project is **open source** and free to use. Feel free to experiment, learn, and share!
 
-```
 
