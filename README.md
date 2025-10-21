@@ -1,5 +1,5 @@
 
-````markdown
+
 # Blockchain Voting System
 
 A simple, hands-on blockchain-based voting system built with **Python** and **Flask**. Cast votes through a web interface, and watch them securely stored in a local blockchain with a live leaderboard. Perfect for learning blockchain fundamentals!
